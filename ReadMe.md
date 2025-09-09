@@ -25,7 +25,7 @@
 1. **Cloner le dépôt** :
 
     ```bash
-    git clone https://github.com/FaouzKK/Anime-Quizz-Client.git
+    git clone https://github.com/faouz-dev/anime-quizz
     ```
 
 2. **Installer les dépendances** :
@@ -57,6 +57,4 @@ Les contributions sont bienvenues ! Voici comment contribuer :
 
 ## Support
 
-Pour toute question, vous pouvez nous contacter via :
-- **WhatsApp** : [Me contacter sur WhatsApp](https://wa.me/22891733300)
-- **Telegram** : [Me contacter sur Telegram](https://t.me/22891733300)
+Pour toute question, vous pouvez nous contacter via les Issues

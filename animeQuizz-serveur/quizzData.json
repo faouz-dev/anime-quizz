@@ -1,0 +1,1084 @@
+{
+  "naruto_1": {
+    "animeName": "Naruto",
+    "gameDifficulty": "Facile",
+    "img": "https://wallpapercave.com/wp/wp9562748.jpg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille de Naruto ?",
+        "reponse": ["uzumaki"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le démon renard scellé en Naruto ?",
+        "reponse": ["kyubi", "kurama"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le rêve de Naruto ?",
+        "reponse": ["hokage"]
+      },
+      {
+        "type": "input",
+        "question": "Qui est le sensei de l'équipe 7 ?",
+        "reponse": ["kakashi", "hatake"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de l'amie d'enfance de Naruto qui est amoureuse de lui ?",
+        "reponse": ["hinata"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du rival de Naruto dans l'équipe 7 ?",
+        "reponse": ["sasuke"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le village caché de Naruto ?",
+        "reponse": [
+          "konoha",
+          "village de konoha",
+          "village cache de la feuille",
+          "village de la feuille"
+        ]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de la mère de Naruto ?",
+        "reponse": ["kushina"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'examen que Naruto passe pour devenir un ninja de niveau supérieur ?",
+        "reponse": ["chuunin", "chunin"]
+      },
+      {
+        "type": "input",
+        "question": "Qui est le premier ami de Naruto à l'Académie ?",
+        "reponse": ["shikamaru"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de la meilleure amie de Sakura ?",
+        "reponse": ["ino"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'enseignant de Naruto à l'Académie des Ninjas ?",
+        "reponse": ["iruka"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du frère de Sasuke ?",
+        "reponse": ["itachi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'invocateur de grenouilles qui entraîne Naruto ?",
+        "reponse": ["jiraiya"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation criminelle dont fait partie Itachi ?",
+        "reponse": ["akatsuki"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de la coéquipière de Sasuke et Naruto dans l'équipe 7 ?",
+        "reponse": ["sakura"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'examen où Naruto affronte Neji ?",
+        "reponse": ["chuunin", "chunin"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du Kazekage de Suna qui devient ami avec Naruto ?",
+        "reponse": ["gaara"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique de clonage que Naruto utilise fréquemment ?",
+        "reponse": ["kage bunshin", "clonage de l'ombre", "shadow clone"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du chef de l'équipe 10 qui utilise des techniques d'ombre ?",
+        "reponse": ["shikamaru"]
+      }
+    ]
+  },
+  "dragon_ball_1": {
+    "animeName": "Dragon Ball",
+    "gameDifficulty": "Facile",
+    "img": "https://estaticos.elmundo.es/assets/multimedia/imagenes/2016/10/13/14763859582544.png",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le prénom du héros de Dragon Ball ?",
+        "reponse": ["goku", "sangoku"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique d'attaque que Goku apprend auprès de Tortue Géniale ?",
+        "reponse": ["kamehameha"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle la jeune fille qui accompagne Goku dans ses aventures et qui recherche les Dragon Balls ?",
+        "reponse": ["bulma"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du nuage volant que Goku utilise pour se déplacer ?",
+        "reponse": ["nuage supersonique", "kinto un", "nuage magique"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du maître de Goku et de Krilin ?",
+        "reponse": ["tortue geniale", "maître roshi"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le rival de Goku qui est aussi son ami ?",
+        "reponse": ["krilin"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du dragon sacré qui apparaît lorsqu'on réunit toutes les Dragon Balls ?",
+        "reponse": ["shenron"]
+      },
+      {
+        "type": "input",
+        "question": "Combien y a-t-il de Dragon Balls à réunir pour invoquer le dragon ?",
+        "reponse": ["sept", "7"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'empereur maléfique que Goku affronte et qui veut conquérir le monde ?",
+        "reponse": ["pilaf"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le père adoptif de Goku qui l'a trouvé et élevé ?",
+        "reponse": ["gohan"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du tournoi où Goku participe pour montrer sa force et ses compétences en arts martiaux ?",
+        "reponse": [
+          "tournoi des arts martiaux",
+          "tenkaichi budokai",
+          "budokai tenkaichi"
+        ]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du garçon transformé en cochon qui peut se transformer en ce qu'il veut ?",
+        "reponse": ["oolong"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'ami de Goku qui est un chat volant ?",
+        "reponse": ["plume", "puerh"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le bandit du désert qui devient ami avec Goku ?",
+        "reponse": ["yamcha"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la petite fille qui accompagne Pilaf et est experte en mécanique ?",
+        "reponse": ["mai"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du général de l'Armée du Ruban Rouge qui est un cyborg ?",
+        "reponse": ["red"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le village où Goku rencontre Oolong pour la première fois ?",
+        "reponse": ["village d'aru"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nombre de l'etoile de la boule de cristal  que Goku considère comme un souvenir de son grand-père ?",
+        "reponse": ["quatre", "4"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du scientifique fou qui crée des androïdes pour l'Armée du Ruban Rouge ?",
+        "reponse": ["gero"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'arme que Goku utilise pour combattre des ennemis puissants ?",
+        "reponse": ["nyoi-bo", "bâton magique"]
+      }
+    ]
+  },
+  "bleach_1": {
+    "animeName": "Bleach",
+    "gameDifficulty": "Facile",
+    "img": "https://cdn1.katadata.co.id/media/images/thumb/2022/11/17/KARAKTER_TERKUAT_DI_BLEACH-2022_11_17-18_16_03_3f815bf5dd91b50897e0e97b0d92ae98_960x640_thumb.jpg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le prénom du protagoniste de Bleach ?",
+        "reponse": ["ichigo"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille d'Ichigo ?",
+        "reponse": ["kurosaki"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'âme Shinigami qui donne ses pouvoirs à Ichigo ?",
+        "reponse": ["rukia"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'épée d'Ichigo ?",
+        "reponse": ["zangetsu"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'amie humaine d'Ichigo, qui pratique le karaté ?",
+        "reponse": ["tatsuki", "arisawa"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique spéciale de la famille Kurosaki pour soigner les blessures ?",
+        "reponse": ["kaido", "healing"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le lycée où étudie Ichigo ?",
+        "reponse": ["karakura"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du capitaine de la 6ème division de la Soul Society, également le frère de Rukia ?",
+        "reponse": ["byakuya"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'arc où Ichigo et ses amis doivent sauver Rukia de l'exécution ?",
+        "reponse": ["soul society"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'ami d'Ichigo qui est un Quincy ?",
+        "reponse": ["uryu", "ishida"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle la forme libérée du Zanpakuto, plus puissante que la forme normale ?",
+        "reponse": ["bankai"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la boutique gérée par Kisuke Urahara ?",
+        "reponse": ["urahara shop"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la petite sœur d'Ichigo, qui peut voir les esprits ?",
+        "reponse": ["karin"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du Hollow qui tue la mère d'Ichigo ?",
+        "reponse": ["grand fisher"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le capitaine de la 10ème division, qui est le plus jeune des capitaines ?",
+        "reponse": ["toshiro", "hitsugaya"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'épée de Rukia ?",
+        "reponse": ["sode no shirayuki"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du père d'Ichigo, qui est aussi un ancien Shinigami ?",
+        "reponse": ["isshin"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation de Hollows menée par Sōsuke Aizen ?",
+        "reponse": ["espada"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'amie d'Ichigo qui possède des pouvoirs de guérison ?",
+        "reponse": ["inoue", "orihime"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du capitaine de la 11ème division, connu pour sa grande force et son amour des combats ?",
+        "reponse": ["zaraki", "kenpachi"]
+      }
+    ]
+  },
+  "hunter_x_hunter_1": {
+    "animeName": "Hunter X Hunter",
+    "gameDifficulty": "Facile",
+    "img": "https://leclaireur.fnac.com/wp-content/uploads/2022/05/hunter-x-hunter-1024x576.jpeg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le prénom du protagoniste principal de Hunter x Hunter ?",
+        "reponse": ["gon"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille de Gon ?",
+        "reponse": ["freecss"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le rêve de Gon ?",
+        "reponse": ["pere", "hunter"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du meilleur ami de Gon, qui a des cheveux argentés ?",
+        "reponse": ["killua"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille de Killua ?",
+        "reponse": ["zoldyck"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du type de licence que Gon veut obtenir ?",
+        "reponse": ["licence de hunter", "hunter license"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle l'examen que Gon doit passer pour devenir Hunter ?",
+        "reponse": ["examen hunter", "hunter exam"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du jeune garçon qui a une chaîne comme arme et est un ami de Gon ?",
+        "reponse": ["kurapika"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de l'ami de Gon qui utilise des cartes comme armes ?",
+        "reponse": ["leorio"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'île où Gon a grandi ?",
+        "reponse": ["baleine", "whale island"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du père de Gon, qui est un Hunter célèbre ?",
+        "reponse": ["ging"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la capacité spéciale qui permet aux Hunters d'utiliser leur aura ?",
+        "reponse": ["nen"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'examinateur principal de l'examen Hunter ?",
+        "reponse": ["satotz"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom du méchant clown qui s'intéresse à Gon et Killua ?",
+        "reponse": ["hisoka"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la grande tour où Gon et ses amis s'entraînent pour améliorer leurs compétences ?",
+        "reponse": ["tour celeste", "heaven's arena"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la ville où se déroule l'examen Hunter ?",
+        "reponse": ["dole"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation criminelle que Kurapika cherche à détruire ?",
+        "reponse": ["la brigade fantome", "phantom troupe"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du président de l'Association des Hunters ?",
+        "reponse": ["netero", "isaac"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du jeu vidéo dans lequel Gon et Killua entrent pour trouver des indices sur Ging ?",
+        "reponse": ["greed island"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la petite sœur de Killua qui a des pouvoirs mystérieux ?",
+        "reponse": ["alluka"]
+      }
+    ]
+  },
+  "jujutsu_kaisen_1": {
+    "animeName": "Jujutsu Kaisen",
+    "gameDifficulty": "Facile",
+    "img": "https://static1.purebreak.com/articles/4/22/49/04/@/778761-jujutsu-kaisen-pas-de-saison-2-pour-l-1200x0-5.jpeg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le prénom du protagoniste de Jujutsu Kaisen ?",
+        "reponse": ["yuuji"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille de Yuuji ?",
+        "reponse": ["itadori"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'école de sorcellerie où Yuuji est inscrit ?",
+        "reponse": ["tokyo"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du lycée où Yuuji étudiait avant de devenir un jujutsu sorcier ?",
+        "reponse": ["sato"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle la technique spéciale de Yuuji qui lui permet de manipuler des objets ?",
+        "reponse": ["black flash", "rayon noir"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du mentor de Yuuji et de Megumi à l'école de jujutsu ?",
+        "reponse": ["satoru", "gojo"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la créature maudite qui est scellée dans Yuuji Itadori ?",
+        "reponse": ["sukuna", "ryomen"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le meilleur ami de Yuuji à l'école, qui est également un sorcier ?",
+        "reponse": ["fushiguro", "megumi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation de sorciers qui traque et élimine les créatures maudites ?",
+        "reponse": ["tokyo", "kyoto"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique de malédiction qui transforme les sentiments négatifs en énergie destructrice ?",
+        "reponse": ["cursed energy", "energie oculte"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du directeur de l'école de sorcellerie Tokyo Jujutsu High ?",
+        "reponse": ["masamichi", "yaga"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du garçon maudit qui possède un pouvoir de guérison extraordinaire ?",
+        "reponse": ["yoshino", "junpei"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le groupe de sorcières qui se bat contre les créatures maudites ?",
+        "reponse": [
+          "kyoto sister school exchange event",
+          "kyoto goodwill event"
+        ]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la malédiction qui se déguise en grand-père de Yuuji ?",
+        "reponse": ["fumiya", "yoshino"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le garçon qui est la cible de la malédiction de Yuuji dans sa première mission ?",
+        "reponse": ["yoshino", "junpei"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation secrète qui cherche à obtenir les parties du corps de Sukuna ?",
+        "reponse": ["cursed womb", "cursed spirits"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le club auquel Yuuji est forcé de rejoindre avant de devenir un sorcier ?",
+        "reponse": ["occult research club"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du garçon qui a recueilli Yuuji lorsqu'il était plus jeune et l'a élevé comme un fils ?",
+        "reponse": ["satoru", "gojo"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle la fille qui contrôle la technique des poupées vaudou ?",
+        "reponse": ["mai zenin", "mai"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'école rivale de Tokyo Jujutsu High ?",
+        "reponse": ["kyoto"]
+      }
+    ]
+  },
+  "demon_slayer_1": {
+    "animeName": "Demon Slayer",
+    "gameDifficulty": "Facile",
+    "img": "https://m.media-amazon.com/images/M/MV5BYTIxNjk3YjItYmYzMC00ZTdmLTk0NGUtZmNlZTA0NWFkZDMwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX500_CR0,234,500,281_.jpg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le prénom du protagoniste principal de Demon Slayer ?",
+        "reponse": ["tanjiro"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille de Tanjiro ?",
+        "reponse": ["kamado"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de la sœur de Tanjiro qui est transformée en démon ?",
+        "reponse": ["nezuko"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation que rejoint Tanjiro pour combattre les démons ?",
+        "reponse": ["demon slayer", "pourfendeurs de demons"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'épéiste qui fabrique l'épée de Tanjiro ?",
+        "reponse": ["haganezuka"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le style de respiration utilisé par Tanjiro ?",
+        "reponse": ["eau"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le démon responsable de la mort de la famille de Tanjiro ?",
+        "reponse": ["kibutsuji", "muzan"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de l'ami de Tanjiro qui utilise la respiration de la foudre ?",
+        "reponse": ["zenitsu"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du démon qui aide Tanjiro et Nezuko et qui était autrefois médecin ?",
+        "reponse": ["tamayo"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de l'ami de Tanjiro qui porte une tête de sanglier ?",
+        "reponse": ["inosuke"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le pilier de l'eau qui devient le mentor de Tanjiro ?",
+        "reponse": ["tomioka", "giyu"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la fleur utilisée pour affaiblir les démons ?",
+        "reponse": ["glycine", "wisteria"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le prénom de l'instructeur qui entraîne Tanjiro pour l'examen de sélection finale ?",
+        "reponse": ["sakonji", "urokodaki"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique de respiration utilisée par Zenitsu ?",
+        "reponse": ["foudre"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'épée utilisée par les pourfendeurs de démons ?",
+        "reponse": ["nichirin"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le démon avec des tambours sur son corps que Tanjiro affronte ?",
+        "reponse": ["kyogai"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique utilisée par Nezuko pour combattre les démons ?",
+        "reponse": ["sang", "blood"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du pilier du vent ?",
+        "reponse": ["shinazugawa", "sanemi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'examen que doit passer Tanjiro pour devenir un pourfendeur de démons ?",
+        "reponse": ["selection finale", "final selection"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du pilier du feu ?",
+        "reponse": ["kyojuro", "rengoku"]
+      }
+    ]
+  },
+  "one_piece_1": {
+    "animeName": "One piece",
+    "gameDifficulty": "Facile",
+    "img": "https://actualitte.com/uploads/images/eiichiro-oda-n-en-peut-plus-de-one-piece-vraiment-737335e72dde.jpg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le prénom du protagoniste principal de One Piece ?",
+        "reponse": ["luffy"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de famille de Luffy ?",
+        "reponse": ["monkey"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du fruit du démon que Luffy a mangé ?",
+        "reponse": ["gomu gomu no mi", "fruit du caoutchouc"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le rêve de Luffy ?",
+        "reponse": ["roi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du bateau de Luffy et de son équipage ?",
+        "reponse": ["vogue merry"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'épéiste de l'équipage de Luffy ?",
+        "reponse": ["zoro", "roronoa"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du cuisinier de l'équipage de Luffy ?",
+        "reponse": ["sanji"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'archéologue de l'équipage de Luffy ?",
+        "reponse": ["robin", "nico"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du médecin de l'équipage de Luffy, qui est aussi un renne ?",
+        "reponse": ["chopper", "tony tony"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du charpentier de l'équipage de Luffy ?",
+        "reponse": ["franky"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la navigatrice de l'équipage de Luffy ?",
+        "reponse": ["nami"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du musicien de l'équipage de Luffy ?",
+        "reponse": ["brook"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'artiste Sniper de l'équipage de Luffy ?",
+        "reponse": ["usopp"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'île où commence l'aventure de Luffy ?",
+        "reponse": ["fuchsia"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'équipage de pirates de Luffy ?",
+        "reponse": ["chapeau de paille", "straw hat"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du frère aîné de Luffy ?",
+        "reponse": ["ace", "portgas"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la ville natale de Nami ?",
+        "reponse": ["cocoyasi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du mentor de Luffy qui lui a appris à combattre ?",
+        "reponse": ["shanks"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du groupe de mercenaires que Luffy affronte dans l'arc Alabasta ?",
+        "reponse": ["baroque works"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du personnage qui peut se transformer en phénix grâce à un fruit du démon ?",
+        "reponse": ["marco"]
+      }
+    ]
+  },
+  "death_note_1": {
+    "animeName": "Death Note",
+    "gameDifficulty": "Facile",
+    "img": "https://dailygeekshow.com/wp-content/uploads/2016/01/une-death-note.jpg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le nom complet du personnage principal de Death Note ?",
+        "reponse": ["yagami", "light"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du dieu de la mort qui donne le Death Note à Light Yagami ?",
+        "reponse": ["ryuk"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom que Light utilise lorsqu'il est le justicier qui tue les criminels ?",
+        "reponse": ["kira"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la détective qui traque Kira dans Death Note ?",
+        "reponse": ["l", "ryuzaki"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le véritable nom de L dans Death Note ?",
+        "reponse": ["lawliet"]
+      },
+      {
+        "type": "input",
+        "question": "Quels sont les deux prérequis pour tuer quelqu'un avec le Death Note ? (Ecrire directement 'x et y' sans faire de phrases )",
+        "reponse": ["nom et visage", "visage et nom"]
+      },
+      {
+        "type": "input",
+        "question": "Combien de secondes faut-il pour qu'une personne meure après que son nom soit écrit dans le Death Note si aucune cause de mort n'est spécifiée ?",
+        "reponse": ["40", "quarante"]
+      },
+      {
+        "type": "input",
+        "question": "Quelle est la profession du père de Light, Soichiro Yagami ?",
+        "reponse": ["policier", "inspecteur", "officier de police"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage possède les yeux de l'ange de la mort, ce qui lui permet de voir le vrai nom et l'espérance de vie des gens ?",
+        "reponse": ["amane", "misa"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'ange de la mort qui accompagne Misa Amane ?",
+        "reponse": ["rem"]
+      },
+      {
+        "type": "input",
+        "question": "ou Light Yagami découvre-t-il le Death Note pour la première fois ?",
+        "reponse": ["terre"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage aide L dans son enquête contre Kira et est un expert en technologie ?",
+        "reponse": ["watari"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation que L utilise pour traquer Kira ?",
+        "reponse": ["task force", "anti-kira"]
+      },
+      {
+        "type": "input",
+        "question": "Quelle est la couleur du carnet du Death Note ?",
+        "reponse": ["noir"]
+      },
+      {
+        "type": "input",
+        "question": "Combien de Death Note sont en possession de Light Yagami au début de l'anime ?",
+        "reponse": ["1", "un"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le principal objectif de Light Yagami après avoir acquis le Death Note ?",
+        "reponse": ["sans crime", "dieu"]
+      },
+      {
+        "type": "input",
+        "question": "Quelle est la capacité spéciale des yeux de shinigami ?",
+        "reponse": ["voir l'espérance de vie", "voir le nom"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la chaîne de télévision que Light utilise pour diffuser ses messages en tant que Kira ?",
+        "reponse": ["sakura tv"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du personnage qui devient le deuxième Kira ?",
+        "reponse": ["amane", "misa"]
+      },
+      {
+        "type": "input",
+        "question": "Quel type de fruit Ryuk adore-t-il ?",
+        "reponse": ["pomme"]
+      }
+    ]
+  },
+  "fullmetal_alchemist_1": {
+    "animeName": "Fullmetal Alchemist",
+    "gameDifficulty": "Facile",
+    "img": "https://static.fnac-static.com/multimedia/Images/FD/Comete/150407/CCP_IMG_1200x800/1985440.jpg",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le nom complet du protagoniste principal de Fullmetal Alchemist ?",
+        "reponse": ["edward"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le frère d'Edward Elric ?",
+        "reponse": ["alphonse"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le surnom d'Edward Elric dans l'armée ?",
+        "reponse": ["fullmetal"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est l'objectif principal des frères Elric dans leur voyage ?",
+        "reponse": ["pierre philosophale"]
+      },
+      {
+        "type": "input",
+        "question": "Quel métal compose l'armure d'Alphonse Elric ?",
+        "reponse": ["acier"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la technique utilisée par les alchimistes ?",
+        "reponse": ["transmutation"]
+      },
+      {
+        "type": "input",
+        "question": "Comment s'appelle le père des frères Elric ?",
+        "reponse": ["van", "hohenheim"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du colonel qui maîtrise l'alchimie du feu ?",
+        "reponse": ["roy", "mustang"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'organisation militaire dans laquelle Edward et Alphonse sont impliqués ?",
+        "reponse": ["armée"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le symbole sur le manteau rouge d'Edward Elric ?",
+        "reponse": ["serpent", "croix"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du pays dans lequel se déroule l'histoire de Fullmetal Alchemist ?",
+        "reponse": ["amestris"]
+      },
+      {
+        "type": "input",
+        "question": "Quel alchimiste a créé une chimère avec sa propre fille ?",
+        "reponse": ["shou", "tucker"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le titre du principal antagoniste qui crée les Homonculus ?",
+        "reponse": ["pere"]
+      },
+      {
+        "type": "input",
+        "question": "Comment Edward transmute-t-il sans cercle de transmutation ?",
+        "reponse": ["frappe ses mains"]
+      },
+      {
+        "type": "input",
+        "question": "Quel homonculus est le plus âgé et puissant ?",
+        "reponse": ["envy"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage utilise l'alchimie pour soigner ?",
+        "reponse": ["marcoh"]
+      },
+      {
+        "type": "input",
+        "question": "Quel homonculus représente l'avidité ?",
+        "reponse": ["greed"]
+      },
+      {
+        "type": "input",
+        "question": "Quel homonculus peut changer d'apparence ?",
+        "reponse": ["envy"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du chien d'Alexander et Nina Tucker ?",
+        "reponse": ["alexander"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le matériau de la jambe mécanique d'Edward ?",
+        "reponse": ["acier", "automail"]
+      }
+    ]
+  },
+  "bungo_stray_dogs_1": {
+    "animeName": "Bungo Stray Dogs",
+    "gameDifficulty": "Facile",
+    "img": "https://sakurasunrise.blog/wp-content/uploads/2019/07/bungo-stray-dogs.jpg?w=1200",
+    "qr": [
+      {
+        "type": "input",
+        "question": "Quel est le nom du protagoniste principal de Bungo Stray Dogs ?",
+        "reponse": ["nakajima", "atsushi"]
+      },
+      {
+        "type": "input",
+        "question": "Dans quel animal Atsushi Nakajima peut-il se transformer ?",
+        "reponse": ["tigre"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'agence à laquelle Atsushi Nakajima se joint ?",
+        "reponse": ["armed detective agency", "agence des detectives armes"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage est connu pour sa fascination pour le suicide ?",
+        "reponse": ["osamu", "dazai"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le pouvoir spécial d'Osamu Dazai ?",
+        "reponse": ["annulation", "annuler"]
+      },
+      {
+        "type": "input",
+        "question": "Quel groupe criminel est l'ennemi principal de l'agence des détectives armés ?",
+        "reponse": ["port mafia", "la mafia portuaire"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du chef de l'Agence des détectives armés ?",
+        "reponse": ["yukichi", "fukuzawa"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage est capable de manipuler la gravité ?",
+        "reponse": ["ryuunosuke", "akutagawa"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom du partenaire de Dazai, obsédé par l'efficacité et les carnets de notes ?",
+        "reponse": ["doppo", "kunikida"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage qui possède un pouvoir de déduction ?",
+        "reponse": ["ranpo", "ranpo"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le surnom d'Atsushi Nakajima dans l'Agence des détectives armés ?",
+        "reponse": ["la bête", "tigre blanc"]
+      },
+      {
+        "type": "input",
+        "question": "Quelle organisation criminelle est dirigée par Ougai Mori ?",
+        "reponse": ["port mafia", "mafia portuaire"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le pouvoir spécial de Doppo Kunikida, basé sur ses écrits ?",
+        "reponse": ["creer des objets", "creation d'objets"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le surnom de Ryunosuke Akutagawa dans la mafia portuaire ?",
+        "reponse": ["chien"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de la jeune fille au pouvoir de guérison dans l'Agence des détectives armés ?",
+        "reponse": ["tanizaki", "naomi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel est le nom de l'orphelinat où Atsushi a grandi ?",
+        "reponse": ["orphelinat"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage est constamment en quête de la paix et de la prospérité ?",
+        "reponse": ["fukuzawa", "yukichi"]
+      },
+      {
+        "type": "input",
+        "question": "Qui est le plus jeune membre de l'Agence des détectives armés, maître des stratégies ?",
+        "reponse": ["miyazawa", "kenji"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage de l'Agence des détectives armés est capable de créer de puissantes illusions ?",
+        "reponse": ["tanizaki", "naomi"]
+      },
+      {
+        "type": "input",
+        "question": "Quel personnage rejoint l'Agence des détectives après avoir été persécuté par la Port Mafia ?",
+        "reponse": ["nakajima", "atsushi"]
+      }
+    ]
+  }
+}
